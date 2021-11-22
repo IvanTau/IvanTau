@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=IvanTau&style=plastic&label=profile+views&color=green)
 <!--
 **IvanTau/IvanTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello world!
+![](https://komarev.com/ghpvc/?username=IvanTau&style=flat-square&label=profile+views&color=blue)
