@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Выполненные проекты
+- [Тестовые задания](https://github.com/IvanTau/Tests)
 - [Яндекс Практикум](https://github.com/IvanTau/Praktikum)
 
 ## Дипломы и сертификаты Data Science
